@@ -1,9 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-/**
-* TCP client that acts as user wanting to get weather info
-*/
+//tcp client
 class TCPClient{
 
 
