@@ -1,7 +1,11 @@
 import java.io.*;
 import java.net.*;
 
+/**
+* TCP client that acts as user wanting to get weather info
+*/
 class TCPClient{
+
 
   public static void main(String argv[])throws Exception{
     
